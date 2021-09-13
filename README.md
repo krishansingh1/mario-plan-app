@@ -11,12 +11,29 @@
    
  ## OverView
  
-  Mario plan app is a app by which a new user sign in to the database and add there projects. This app is a realtime running app by which we can signin, login, create a new   project, logout functionality. So first thing in this project is started by creating components for different functions like this sequence:
-  <p></p>
+  Mario plan app is a app by which a new user sign in to the database and add there projects. This app is a realtime running app by which we can signin, login, create a new   project, logout functionality. So first thing in this project is started by creating components for different functions like this sequence: <br>
+  <p>Components</p>
   <ul>
    <li>auth</li>
      <ul>
       <li>signin</li>
-      <li>singup</li>
+      <li>signup</li>
      </ul>
+   <li>dashboard</li>
+     <ul>
+      <li>dashboard</li>
+     </ul>
+   <li>layout</li>
+     <ul>
+      <li>navbar</li>
+      <li>signinlinks</li>
+      <li>signoutlinks</li>
+     </ul>
+   <li>projects</li>
+     <ul>
+      <li>create projects</li>
+      <li>projects details</li>
+      <li>projects list</li>
+      <li>projects summary</li>
+     </ul> 
   </ul>
