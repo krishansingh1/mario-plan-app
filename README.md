@@ -52,5 +52,7 @@
 
 
 ## Link to the app
+ https://krishansingh1.github.io/mario-plan-app/
  
+ # Thanks guys!!!
    
