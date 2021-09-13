@@ -4,7 +4,7 @@
  
  ##Technologies used to create this app:
  
-   1.JavaScript
-   2.ReactJs
-   3.Redux
-   4.Firebase
+   1. JavaScript <br>
+   2. ReactJs <br>
+   3. Redux <br>
+   4. Firebase <br>
