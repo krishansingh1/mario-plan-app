@@ -2,7 +2,7 @@
 
 # Mario Plan App
  
- ##Technologies used to create this app:
+ ## Technologies used to create this app:
  
    1. JavaScript <br>
    2. ReactJs <br>
