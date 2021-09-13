@@ -45,7 +45,7 @@
   <br>
   1. npm i firebase<br>
   2. npm i -g firebase-tools <br>
-  3. npm i moment <br> // This one is for modified dates this is a js library<br>
+  3. npm i moment // This one is for modified dates this is a js library<br>
   4. npm i react-redux-firebase <br>
   5. npm i redux-firestore <br>
   6. npm i redux thunk <br>
