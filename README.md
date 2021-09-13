@@ -8,3 +8,13 @@
    2. ReactJs <br>
    3. Redux <br>
    4. Firebase <br>
+   
+ ## OverView
+ 
+  Mario plan app is a app by which a new user sign in to the database and add there projects. This app is a realtime running app by which we can signin, login, create a new   project, logout functionality. So first thing in this project is started by creating components for different functions like this sequence:
+  
+  -[Components]
+   -[auth]
+     -[signin]
+     -[signout]
+   -[layout]
