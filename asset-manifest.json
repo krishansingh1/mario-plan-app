@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mario-plan-app/static/css/main.1408a830.chunk.css",
+    "main.js": "/mario-plan-app/static/js/main.4eca4543.chunk.js",
+    "main.js.map": "/mario-plan-app/static/js/main.4eca4543.chunk.js.map",
+    "runtime-main.js": "/mario-plan-app/static/js/runtime-main.4468b3e8.js",
+    "runtime-main.js.map": "/mario-plan-app/static/js/runtime-main.4468b3e8.js.map",
+    "static/js/2.da524af3.chunk.js": "/mario-plan-app/static/js/2.da524af3.chunk.js",
+    "static/js/2.da524af3.chunk.js.map": "/mario-plan-app/static/js/2.da524af3.chunk.js.map",
+    "static/js/3.5baa9bb3.chunk.js": "/mario-plan-app/static/js/3.5baa9bb3.chunk.js",
+    "static/js/3.5baa9bb3.chunk.js.map": "/mario-plan-app/static/js/3.5baa9bb3.chunk.js.map",
+    "index.html": "/mario-plan-app/index.html",
+    "static/css/main.1408a830.chunk.css.map": "/mario-plan-app/static/css/main.1408a830.chunk.css.map",
+    "static/js/2.da524af3.chunk.js.LICENSE.txt": "/mario-plan-app/static/js/2.da524af3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mario-plan-app/static/media/mario-bg.c9fe338e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4468b3e8.js",
+    "static/js/2.da524af3.chunk.js",
+    "static/css/main.1408a830.chunk.css",
+    "static/js/main.4eca4543.chunk.js"
+  ]
+}
